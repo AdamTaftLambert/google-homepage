@@ -66,6 +66,7 @@ a:hover {
     display:block;
     margin: auto;
     width: 350px;
+    margin-bottom: 20px;
 }
 #the-search-bar {
     width: 500px;
